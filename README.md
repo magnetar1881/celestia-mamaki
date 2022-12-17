@@ -1,4 +1,4 @@
-## Hardware Requirements
+## Hardware Requirements:
 
  - Memory: 8 GB RAM
  - CPU: Quad-Core
